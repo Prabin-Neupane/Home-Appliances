@@ -23,7 +23,7 @@ This project uses **hand gesture recognition** via webcam and **Arduino with rel
 - USB cable for Arduino
 
 ### 💻 Software:
-- Python 3.x
+- Python 3.8.10
 - [cvzone](https://github.com/cvzone/cvzone) (uses OpenCV under the hood)
 - OpenCV (`cv2`)
 - pyfirmata (for Arduino communication)
